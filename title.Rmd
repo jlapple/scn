@@ -47,7 +47,7 @@ output:
 - [MARSYS Statistik und Programmierung mit R](MARSYS_Statistik_und_Programmierung_mit_R.html) by RLab-Team
 
 ## P
-
+- [Population Matrix Models](Population_Matrix_Models.html) by Jennifer Apple
 - [Programacion Estadistica R](estadistica.html) by Ismael Fernández
 - [Programando en R](programando.html) by José R Sosa
 - [PSYCH](PSYCH.html) by Kevin R. Carriere & Jason Kilgore
